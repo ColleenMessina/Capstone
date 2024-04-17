@@ -1,9 +1,15 @@
+import React from 'react';
 import './App.css';
 
 function App() {
   return (
-    <div> Homepage
-    </div>
+    <React.Fragment>
+      <body>
+        <Header />
+        <Main />
+        <Footer />
+      </body>
+    </React.Fragment>
   );
 }
 
