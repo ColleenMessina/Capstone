@@ -1,6 +1,6 @@
 const HeaderComponent = () => {
     return (
-        <header>Homepage
+        <header>Little Lemon
             <img></img>
         </header>
     )
