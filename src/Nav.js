@@ -1,4 +1,4 @@
-export function Nav() {
+const NavComponent = () => {
     <nav>
         <ul>
             <li><a href="#"></a>Home</li>
@@ -11,3 +11,4 @@ export function Nav() {
     </nav>
 
 }
+export default NavComponent;

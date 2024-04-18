@@ -1,3 +1,5 @@
-export function Main() {
+const MainComponent = () => {
     <main></main>
 }
+
+export default MainComponent;
