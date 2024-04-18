@@ -35,4 +35,21 @@
   to {
     transform: rotate(360deg);
   }
+header {
+  background-color: darkolivegreen;
+  text-align: center;
+}
+
+nav {
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+main {
+  background-color: antiquewhite;
+  text-align: left;
+}
+
+footer {background-color: darkolivegreen;
+  text-align: center;}
 }

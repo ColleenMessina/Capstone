@@ -1,7 +1,9 @@
 const HeaderComponent = () => {
-    <header>Homepage
-        <img></img>
-    </header>
+    return (
+        <header>Homepage
+            <img></img>
+        </header>
+    )
 }
 
 export default HeaderComponent;
