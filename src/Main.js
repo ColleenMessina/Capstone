@@ -1,1 +1,3 @@
-<main></main>
+export function Main() {
+    <main></main>
+}
